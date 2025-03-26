@@ -17,12 +17,6 @@ jobs:
             output/snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Avoid API rate limits
-      # Upload the generated SVG as an artifact (optional, for debugging)
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: output/snake.svg
-          if-no-files-found: error # Ensure the step fails if the file isn't found
       # Commit and push the generated SVG to the repository
       - run: git config --global user.name "github-actions[bot]"
       - run: git config --global user.email "github-actions[bot]@users.noreply.github.com"
