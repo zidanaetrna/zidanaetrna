@@ -25,16 +25,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # Pull the latest changes and rebase, with error handling
-          if ! git pull origin main --rebase; then
-            echo "Rebase failed, attempting to resolve conflicts..."
-            git rebase --abort # Abort the rebase if it fails
-            git fetch origin
-            git reset --hard origin/main # Reset to the latest remote state
-            git add .
-            git commit -m "Update snake animation after conflict resolution" || echo "No changes to commit after conflict resolution"
-          else
-            git add .
-            git commit -m "Update snake animation" || echo "No changes to commit"
-          fi
-          git push
+          git add .
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push --force # Force push to overwrite remote changes
