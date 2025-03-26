@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Zidanaetrna!
+# 👋 Welcome to my Profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zidanaetrna&color=blue)
 
