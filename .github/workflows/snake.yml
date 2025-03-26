@@ -7,10 +7,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Check out the repository with a token for pushing
+      # Check out the repository with a token for pushing, fetch full history
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # Fetch full history, not a shallow clone
       # Generate the snake SVG using Platane/snk
       - uses: Platane/snk@v3
         with:
@@ -24,7 +25,16 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase # Pull the latest changes and rebase
-          git add .
-          git commit -m "Update snake animation" || echo "No changes to commit"
+          # Pull the latest changes and rebase, with error handling
+          if ! git pull origin main --rebase; then
+            echo "Rebase failed, attempting to resolve conflicts..."
+            git rebase --abort # Abort the rebase if it fails
+            git fetch origin
+            git reset --hard origin/main # Reset to the latest remote state
+            git add .
+            git commit -m "Update snake animation after conflict resolution" || echo "No changes to commit after conflict resolution"
+          else
+            git add .
+            git commit -m "Update snake animation" || echo "No changes to commit"
+          fi
           git push
