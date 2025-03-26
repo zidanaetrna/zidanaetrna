@@ -7,19 +7,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Check out the repository
+      # Check out the repository with a token for pushing
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       # Generate the snake SVG using Platane/snk
       - uses: Platane/snk@v3
         with:
           github_user_name: zidanaetrna
           outputs: |
-            output/snake.svg
+            output/snake.svg?color_snake=orange&color_dots=#bfd6f6,#8db0fe,#64a5f6,#4a91f2,#3b82f6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Avoid API rate limits
       # Commit and push the generated SVG to the repository
-      - run: git config --global user.name "github-actions[bot]"
-      - run: git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      - run: git add .
-      - run: git commit -m "Update snake animation"
-      - run: git push
+      - name: Commit and push snake.svg
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
