@@ -19,7 +19,7 @@ I’m a Blockchain enthusiast and been making several projects that related into
   </tr>
 </table>
 
-## 🐍 Contribution Snake
+## Contribution 
 <img src="https://github.com/zidanaetrna/zidanaetrna/blob/main/output/snake.svg" alt="Contribution Snake">
 
 ## 📌 Recent Projects
