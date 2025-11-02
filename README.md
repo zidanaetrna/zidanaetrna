@@ -7,7 +7,7 @@ I’m a Blockchain enthusiast and been making several projects that related into
 ## 🌟 About Me
 - 🔭 I’m currently working by myself.
 - 🌱 I’m still learning python and js so expect less from me.
-- 👯 I’m an enthusiast also on linux, so i rarely made auto install for node projects.
+- 👯 I’m also an enthusiast in Linux, so i rarely made auto install for node projects.
 - 💬 Ask me about my recent project, automation, or anything.
 - 📫 Reach me at tumbaldiscord292@gmail.com.
 
