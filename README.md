@@ -32,8 +32,8 @@ If you find my work helpful, consider buying me a coffee to keep me fueled! ☕
 **EVM Address:** `0xA1a4d3F3A49f4514CCEE434Cfc66837A1fFC687d` 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zidan-mutaqin-b3b805313/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/jaydenhanami)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](https://github.com/zidanaetrna?tab=repositories)
 
 ---
