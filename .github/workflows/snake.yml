@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: zidanaetrna
           outputs: |
-            output/snake.svg?color_snake=#39d353&color_dots=#0e4429,#006d32,#26a641,#39d353,#56d364
+            output/snake.svg?color_snake=#39d353&color_dots=#161b22,#006d32,#26a641,#39d353,#56d364
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Avoid API rate limits
       # Commit and push the generated SVG to the repository
