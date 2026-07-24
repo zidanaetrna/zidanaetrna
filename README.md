@@ -1,41 +1,58 @@
-# 👋 Welcome to my Profile!
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=zidanaetrna&color=blue)
+# zidanaetrna
 
-I’m a Blockchain enthusiast and been making several projects that related into automation for popular airdrop project. 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Technical+Lead+%7C+Platform+%26+Infrastructure;Full+Stack+Engineer+%7C+DevOps;Blockchain+%26+Automation+Enthusiast" alt="Typing SVG" />
 
-## 🌟 About Me
-- 🔭 I’m currently working by myself.
-- 🌱 I’m still learning python and js so expect less from me.
-- 👯 I’m also an enthusiast in Linux, so i rarely made auto install for node projects.
-- 💬 Ask me about my recent project, automation, or anything.
-- 📫 Reach me at tumbaldiscord292@gmail.com.
+</div>
 
-## 📊 My GitHub Stats and Languages
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=zidanaetrna&show_icons=true&theme=radical" alt="Zidanaetrna's GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanaetrna&layout=donut&theme=radical" alt="Zidanaetrna's Top Languages"></td>
-  </tr>
-</table>
+Technical Lead focused on platform, infrastructure, and full stack engineering. I build and run production systems end to end, from Linux servers, Docker, and CI/CD pipelines to backend services in Go, Node.js, and Python, and frontends in React/TypeScript.
 
-## Contribution 
-<img src="https://github.com/zidanaetrna/zidanaetrna/blob/main/output/snake.svg" alt="Contribution Snake">
+Currently leading development and infrastructure for a crypto automation SaaS platform, and building smart contract and Web3 tooling on the side. Background in networking and Linux system administration, which shapes how I approach deployment and operations.
 
-## 📌 Recent Projects
-- [Somnia-Auto](https://github.com/zidanaetrna/somnia-auto) - Automatic bot for swapping and sending on somnia networks.
-- [Layeredge-CLI](https://github.com/zidanaetrna/layeredge-cli) - Automatic Installation for Layeredge-CLI.
-
-## ☕ Buy Me a Coffee
-If you find my work helpful, consider buying me a coffee to keep me fueled! ☕
-
-**EVM Address:** `0xA1a4d3F3A49f4514CCEE434Cfc66837A1fFC687d` 
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](https://github.com/zidanaetrna?tab=repositories)
+Got a question about a project, infrastructure, or automation, reach out at tumbaldiscord292@gmail.com.
 
 ---
 
-*Thanks for visiting my profile! Let’s create something awesome together!*
+<div align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,githubactions,gcp,cloudflare,go,rust,python,js,ts,nodejs,react,tailwind,solidity,git" alt="Tech Stack" />
+
+### Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zidanaetrna&theme=github_dark" alt="Zidanaetrna's GitHub Stats" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zidanaetrna&theme=github_dark" alt="Zidanaetrna's Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=zidanaetrna&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github.com/zidanaetrna/zidanaetrna/blob/main/output/snake.svg" alt="Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+### Side Projects
+
+- **[Hananime](https://hananime.fun)** - real time streaming platform built on WebSocket based communication, with a separated frontend/backend architecture.
+- **[HanaManga](https://manga.hananime.fun)** - manga reading platform, built alongside Hananime with the same separated frontend/backend approach.
+- **Crypto Donation SDK & Platform** - upgradeable Solidity contract (proxy pattern) with a TypeScript SDK, Go backend, and Rust event indexer, on Ethereum/Base testnet.
+- **[Somnia-Auto](https://github.com/zidanaetrna/somnia-auto)** - bot for automated swap and send transactions on the Somnia network.
+- **[Layeredge-CLI](https://github.com/zidanaetrna/layeredge-cli)** - one line auto installer for the Layeredge CLI node.
+
+For more side projects or tools, feel free to explore my public repositories.
+
+---
+
+### Support
+
+If any of these tools saved you time, you can send a tip:
+
+`0xA1a4d3F3A49f4514CCEE434Cfc66837A1fFC687d` (EVM)
+
+---
+
+### Links
+
+[LinkedIn](https://www.linkedin.com/in/zidan-mutaqin/) · [Repositories](https://github.com/zidanaetrna?tab=repositories)
