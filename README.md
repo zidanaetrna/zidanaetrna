@@ -18,7 +18,8 @@ Got a question about a project, infrastructure, or automation, reach out at tumb
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,githubactions,gcp,cloudflare,go,rust,python,js,ts,nodejs,react,tailwind,solidity,git" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,githubactions,gcp,cloudflare,go,rust,python,js" alt="Tech Stack" /><br/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,solidity,git" alt="Tech Stack" />
 
 ### Stats
 
