@@ -1,7 +1,11 @@
 <div align="center">
 
-# zidanaetrna
 ### ![Profile Views](https://komarev.com/ghpvc/?username=zidanaetrna&color=blueviolet&style=flat-square)
+</div>
+
+<div align="center">
+
+# zidanaetrna
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Technical+Lead+%7C+Platform+%26+Infrastructure;Full+Stack+Engineer+%7C+DevOps;Blockchain+%26+Automation+Enthusiast" alt="Typing SVG" />
 
