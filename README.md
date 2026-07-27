@@ -10,7 +10,7 @@ Technical Lead focused on platform, infrastructure, and full stack engineering. 
 
 Currently leading development and infrastructure for a crypto automation SaaS platform, and building smart contract and Web3 tooling on the side. Background in networking and Linux system administration, which shapes how I approach deployment and operations.
 
-Got a question about a project, infrastructure, or automation, reach out at tumbaldiscord292@gmail.com.
+Got a question about a project, infrastructure, or automation, reach out at me@zidanmutaqin.cloud.
 
 ---
 
@@ -20,7 +20,7 @@ Got a question about a project, infrastructure, or automation, reach out at tumb
 
 <img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,githubactions,gcp,cloudflare,go,rust,python,js" alt="Tech Stack" /><br/>
 <img src="https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,solidity,git" alt="Tech Stack" />
-
+### ![Profile Views](https://komarev.com/ghpvc/?username=zidanaetrna&color=blueviolet&style=flat-square)
 ### Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zidanaetrna&theme=github_dark" alt="Zidanaetrna's GitHub Stats" height="165" />
