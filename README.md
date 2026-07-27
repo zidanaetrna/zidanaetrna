@@ -1,6 +1,7 @@
 <div align="center">
 
 # zidanaetrna
+### ![Profile Views](https://komarev.com/ghpvc/?username=zidanaetrna&color=blueviolet&style=flat-square)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Technical+Lead+%7C+Platform+%26+Infrastructure;Full+Stack+Engineer+%7C+DevOps;Blockchain+%26+Automation+Enthusiast" alt="Typing SVG" />
 
@@ -20,7 +21,6 @@ Got a question about a project, infrastructure, or automation, reach out at me@z
 
 <img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,githubactions,gcp,cloudflare,go,rust,python,js" alt="Tech Stack" /><br/>
 <img src="https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,solidity,git" alt="Tech Stack" />
-### ![Profile Views](https://komarev.com/ghpvc/?username=zidanaetrna&color=blueviolet&style=flat-square)
 ### Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zidanaetrna&theme=github_dark" alt="Zidanaetrna's GitHub Stats" height="165" />
