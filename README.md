@@ -49,6 +49,11 @@ Got a question about a project, infrastructure, or automation, reach out at me@z
 For more side projects or tools, feel free to explore my public repositories.
 
 ---
+> The realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+>
+> — **Maurice Wilkes**
+---
+
 
 ### Support
 
